@@ -8,6 +8,8 @@ Project Practice Development_test01
 [Android 的 SDK 安装和配置](https://blog.csdn.net/wly_ok/article/details/130158066?spm=1001.2014.3001.5502)
 
 [关于Android Studio配置github和Git的问题](https://blog.csdn.net/wly_ok/article/details/130153828?spm=1001.2014.3001.5501)
+
+[Anaconda中TensorFlow的安装（win+r形式）](https://blog.csdn.net/wly_ok/article/details/130468990?spm=1001.2014.3001.5501)
 # 关于Android Studio配置github和Git的问题
 ## 1.下载Git和相应环境变量配置
 首先，下载[Git](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git)
