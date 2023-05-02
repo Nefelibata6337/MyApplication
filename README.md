@@ -50,3 +50,35 @@ Github就在Git下面，点击“+”号，然后选择第一个
 成功了之后
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/4ffed73b17954d4282f992c977960ee5.png#pic_center)
 即可传项目到github。
+## Project Practice Development_test01补充
+## 命名行方式（推荐）
+Open Anaconda Powershell Prompt (or Anaconda Command Prompt), create a Python environment for TensorFlow, install the TensorFlow library, and activate the environment using the following method.
+(打开Anaconda Powershell Prompt（或者Anaconda Command Prompt），然后为TensorFlow创建一个Python环境并安装tensorflow库和激活环境，使用以下方式。)
+Install TensorFlow:
+
+1. Download and install Anaconda or the smaller Miniconda.
+
+2. On Windows open the Start menu and open an Anaconda Command Prompt. On macOS or Linux open a terminal window. Use the default bash shell on macOS or Linux.
+
+3. Choose a name for your TensorFlow environment, such as “tf”.
+
+4. To install the current release of CPU-only TensorFlow, recommended for beginners:
+```java
+conda create -n tf tensorflow
+conda activate tf
+```
+Or, to install the current release of GPU TensorFlow on Linux or Windows:
+
+```java
+conda create -n tf-gpu tensorflow-gpu
+conda activate tf-gpu
+```
+
+![](https://img-blog.csdnimg.cn/a6b6989cbdfb46b6b0d2ce0704dfc713.png#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/202aa72a37b14499b24966494b2ec34e.png#pic_center)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/3e7942d76d5341cf905f04c9b2d16a9e.png#pic_center)
+TensorFlow is now installed and ready to use.
+参考：[TensorFlow - Anaconda documentation](https://docs.anaconda.com/free/anaconda/applications/tensorflow/)
+[其他方式](https://blog.csdn.net/llfjfz?type=blog)
+
