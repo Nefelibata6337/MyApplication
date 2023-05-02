@@ -1,7 +1,7 @@
 # MyApplication
 Project Practice Development_test01
 
-##东西全部写在csdn了
+## 东西全部写在csdn了
 
 [Anaconda下载安装教程](https://blog.csdn.net/wly_ok/article/details/130098793?spm=1001.2014.3001.5502)
 
